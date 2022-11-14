@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 40rem; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home {
+    background-color: #9daaa2;
+}
+
+.img-portrait {
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    max-width: 10rem;
+    max-height: auto;
+    float: left;
+}
+
+.img-pen {
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    max-width: 1rem;
+    max-height: auto;
+    float: left;
+}
+
+.services {
+    background-color: #E6E6D7;
+}
+
+.about {
+    display: block;
+    margin: 10px 40px 10px 40px;
+    font-size: medium;
+}
+
+.custom-background {
+    background-image: url('img/meet.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
